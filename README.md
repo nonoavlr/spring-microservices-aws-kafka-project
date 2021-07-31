@@ -1,2 +1,2 @@
 # spring-microservices-aws-kafka-project
-Demonstration of my skills with java, spring, microservices, aws and kafka.
+Install and execute 'docker-compose up' in this directory to set up the kafka and dynamo infra-structure (containers)
